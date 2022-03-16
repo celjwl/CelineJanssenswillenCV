@@ -3,7 +3,7 @@
 # Personal note
 
 I am Céline. I am enthusiastic, eager to learn and a good planner. I like sports (especially swimming) and cooking for family and friends.
-Personal favorite quote: do the best you can until you know better. Then when you know better, do better.
+Personal favorite quote: _do the best you can until you know better. Then when you know better, do better._
 
 # Work experience 
 
