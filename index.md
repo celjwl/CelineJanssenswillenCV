@@ -1,5 +1,6 @@
+# Homepage Céline Janssenswillen
 
-# Personal note
+## Personal note
 
 Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I like sports (especially swimming) and cooking for family and friends.
 Personal favorite quote: _Do the best you can until you know better. Then when you know better, do better._
@@ -46,7 +47,10 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
   <li> basics of web development </li>
   <li> basics of database (MySql) </li>
   <li> soft skills: good communications skills to work with business/legal side and technical side as well </li>
+</ul>
 
-[Link display text - Phone](tel:+0499603256)
-[Link display text - Email](mailto:janssenswillenceline3@gmail.com)
+## Contact
+
+tel:+0499603256
+mailto:janssenswillenceline3@gmail.com
 	
