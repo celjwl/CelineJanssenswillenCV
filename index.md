@@ -2,10 +2,11 @@
 
 ## Personal note
 
-Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I like sports (especially swimming) and cooking for family and friends.
-Personal favorite quote: _Do the best you can until you know better. Then when you know better, do better._
+Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I like to have a good team around me. 
+I like sports (especially swimming) and cooking for family and friends.
+Personal favorite quote: _Do the best you can until you know better. Then when you know better, do better._ 
 
-# Work experience 
+## Work experience 
 
 ### Legal Watch and Legal Tech Officer Belfius Bank
 **September 2021-Present**
