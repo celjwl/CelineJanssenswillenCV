@@ -1,8 +1,11 @@
-## Welcome to my homepage.
+## This is the homepage of Céline Jansseneswillen
+
+# Personal note
 
 I am Céline. I am enthusiastic, eager to learn and a good planner. I like sports (especially swimming) and cooking for family and friends.
+Personal favorite quote: do the best you can until you know better. Then when you know better, do better.
 
-## Work experience 
+# Work experience 
 
 ### Legal Watch and Legal Tech Officer Belfius Bank
 **September 2021-Present**
@@ -45,3 +48,6 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
   <li> basics of database (MySql) </li>
   <li> soft skills: good communications skills to work with business/legal side and technical side as well </li>
 
+[Link display text - Phone](tel:+0499603256)
+[Link display text - Email](mailto:janssenswillenceline3@gmail.com)
+	
