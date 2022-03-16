@@ -1,4 +1,4 @@
-# Homepage Céline Janssenswillen
+# Céline Janssenswillen
 
 ## Personal note
 
@@ -30,11 +30,11 @@ During summermonths I worked on the Legal Departement for four years. Supporting
 ## Education
 
 ### 2020-present: Bachelor Toegepaste informatica
-**Hogeschool Gent**
+**Hogeschool Gent** <br>
 I am following this bachelor course as a working student, which will take 4 years. I am currently half way through the course.
 
 ### 2018-2019: Master in het notariaat met onderscheiding
-**Katholieke Universiteit Leuven**
+**Katholieke Universiteit Leuven** <br>
 Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op welke grenzen stoten we nog?"
 				
 ### 2013-2018: Master in de rechten
@@ -43,10 +43,9 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
 ## Skills 
 
 <ul>
-  <li> basic programming skill: Java and Python </li>
-  <li> basics of web development </li>
-  <li> basics of database (MySql) </li>
-  <li> soft skills: good communications skills to work with business/legal side and technical side as well </li>
+  <li> Basic programming skill: Java and Python </li>
+  <li> Basics of web development and Mysql </li>
+  <li> Soft skills: good communications skills to work with business/legal and technical side, bridge between both worlds </li>
 </ul>
 
 ## Contact
