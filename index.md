@@ -47,7 +47,7 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
 
 <ul>
 	<li> Basic programming skills in Java and Python </li>
-	<li< Basic knowledge of web development and databases </li>
+	<li> Basic knowledge of web development and databases </li>
   	<li> Soft skills : strong communication skills </li>
 </ul>
 
