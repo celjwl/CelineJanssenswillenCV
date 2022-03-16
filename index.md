@@ -2,7 +2,12 @@
 
 ## Personal note
 
-Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I feel comfortable with a good team around me, in which hard work is encouraged and appreciated. I like sports (especially swimming) and cooking for family and friends.
+Hello! 
+
+I am Céline. I am a lawyer and student comper science. I am enthusiastic, eager to learn and a good planner. I feel comfortable with a good team around me, in which hard work is encouraged and appreciated. I like sports (especially swimming) and cooking for family and friends.
+
+My long-term professional goal is to improve my technical skills, so that I can build a bridge between law/administration and technology. I want to gain experience in organizing digitization projects within government services, legal departments, law firms, etc. 
+
 Personal favorite quote: _Do the best you can until you know better. Then when you know better, do better._ 
 
 ## Work experience 
