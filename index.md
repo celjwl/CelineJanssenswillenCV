@@ -2,9 +2,7 @@
 
 ## Personal note
 
-Hello! 
-
-I am Céline. I am a lawyer and student applied computer science. I am enthusiastic, eager to learn and a good planner. I feel comfortable with a good team around me, in which hard work is encouraged and appreciated. I like sports (especially swimming) and cooking for family and friends.
+Hello! I am Céline. I am a lawyer and student applied computer science. I am enthusiastic, eager to learn and a good planner. I feel comfortable with a good team around me, in which hard work is encouraged and appreciated. I like sports (especially swimming) and cooking for family and friends.
 
 My long-term professional goal is to improve my technical skills, so that I can build a bridge between law/administration and technology. I want to gain experience in organizing digitization projects within government services, legal departments, law firms, etc. 
 
@@ -48,13 +46,13 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
 ## Skills 
 
 <ul>
-  <li> Basic programming skill: Java and Python </li>
-  <li> Basics of web development and Mysql </li>
-  <li> Soft skills: good communications skills to work with business/legal and technical side, bridge between both worlds </li>
+  <li> Basic programming skills in Java and Python </li>
+  <li> Basic of web development skills and a basic knowledge of Mysql </li>
+  <li> Soft skills : strong communication skills </li>
 </ul>
 
 ## Contact
 
 tel:+0499603256 <br>
-mailto:janssenswillenceline3@gmail.com
+E-mail: janssenswillenceline3@gmail.com
 	
