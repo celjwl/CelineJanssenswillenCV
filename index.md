@@ -51,6 +51,6 @@ Master Thesis: "Digitalisering van het notariaat: waar staan we vandaag en op we
 
 ## Contact
 
-tel:+0499603256
+tel:+0499603256 <br>
 mailto:janssenswillenceline3@gmail.com
 	
