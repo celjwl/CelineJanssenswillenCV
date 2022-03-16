@@ -2,8 +2,7 @@
 
 ## Personal note
 
-Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I like to have a good team around me. 
-I like sports (especially swimming) and cooking for family and friends.
+Hello! I am Céline. I am enthusiastic, eager to learn and a good planner. I feel comfortable with a good team around me, in which hard work is encouraged and appreciated. I like sports (especially swimming) and cooking for family and friends.
 Personal favorite quote: _Do the best you can until you know better. Then when you know better, do better._ 
 
 ## Work experience 
